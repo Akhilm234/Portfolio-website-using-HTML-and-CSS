@@ -1,6 +1,6 @@
 This is developed website of My Portfolio: "https://xh05hfof1pmwc1ragh0jiq.on.drv.tw/www.Akhilmportfolio.com/"
 
-1. The HTML Structure (The Base)
+"1. The HTML Structure (The Base)
 We have a webpage with different sections: "Home," "About," "Portfolio," and "Contact." Think of these as the rooms in your LEGO house.
 Each section has a div (like a container) with a specific id (like a name tag) to help us find it later.
 Inside each section, there are headings (<h1>, <h2>), paragraphs (<p>), images (<img>), and lists (<ul>, <li>). These are the furniture and decorations in your rooms.
@@ -27,4 +27,5 @@ The code uses Font Awesome, which is like a library of stickers with different i
 These icons make the webpage look nicer and easier to understand.
 For example, there's a paper plane icon for the email address and a phone icon for the phone number.
 
-In simple words, this code creates a webpage with different sections, styles it to look nice, and adds some interactive elements using JavaScript. It also connects to a Google Sheet to store messages from the contact form.
+In simple words, this code creates a webpage with different sections, styles it to look nice, and adds some interactive elements using JavaScript. It also connects to a Google Sheet to store messages from the contact form."
+"
