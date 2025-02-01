@@ -1,4 +1,4 @@
-This is developed website of My Portfolio: "https://xh05hfof1pmwc1ragh0jiq.on.drv.tw/www.Akhilmportfolio.com/"
+
 
 The HTML Structure (The Base)
 We have a webpage with different sections: "Home," "About," "Portfolio," and "Contact." Think of these as the rooms in your LEGO house.                                                    
